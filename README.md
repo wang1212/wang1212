@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there! 👋
+
+- 🔭 I’m currently working on web front-end and web backend technology, especially Node.js.
+- 😄 I’m very interested in open source and hope to make some contributions to it.
 
 <!--
-**wang1212/wang1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=wang1212&show_icons=true" />
+
+<!--
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wang1212" />
 -->
