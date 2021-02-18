@@ -13,8 +13,11 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=wang1212&show_icons=true" />
+<!-- GitHub stats -->
 
-<!--
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wang1212" />
--->
+<b>⚡ My GitHub Statistics</b>
+
+<p>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=wang1212&show_icons=true" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=wang1212" />
+</p>
