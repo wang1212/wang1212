@@ -29,4 +29,4 @@
 
 ---
 
-[:point_right: 去看看我的博客](https://wang1212.github.io/)
+[:point_right: 去看看我的博客！](https://wang1212.github.io/)
