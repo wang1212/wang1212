@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working on web front-end and web backend technology, especially Node.js.
 - 😄 I’m very interested in open source and hope to make some contributions to it.
+  - I did some Chinese translation of documents.
+    - [the-book-of-ruby](https://wang1212.github.io/the-book-of-ruby/)
+    - [v8.dev](https://v8.js.cn/)
 
 <!--
 
