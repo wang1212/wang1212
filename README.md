@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! 👋   [[看中文版]](./README.zh-CN.md)
 
 - 🔭 I’m currently working on web front-end and web backend technology, especially Node.js.
 - 😄 I’m very interested in open source and hope to make some contributions to it.
@@ -26,3 +26,7 @@
   
   _NOTE: Top languages are not an indicator skill, it's just a metric of how much **public** code I have written over the years._
 </p>
+
+---
+
+[:point_right: Go see my blog!](https://wang1212.github.io/)
