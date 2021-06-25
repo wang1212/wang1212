@@ -21,8 +21,8 @@
 <b>⚡ 我的 GitHub 统计信息</b>
 
 <p>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=wang1212&show_icons=true" />
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=wang1212" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=wang1212&show_icons=true&locale=cn" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=wang1212&locale=cn" />
   
   _注意：语言排名不是一项指标技能，它只是对我多年来编写的**公共**代码的量度。_
 </p>
