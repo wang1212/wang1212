@@ -2,9 +2,13 @@
 
 - 🔭 我目前正在研究 Web 前端和 Web 后端技术，尤其是 Node.js。
 - 😄 我对开源非常感兴趣，并希望对此做出一些贡献。
-  - 我参与了一些文档的中文翻译工作：
+
+  - 我参与了一些文档的中文翻译工作
     - [the-book-of-ruby](https://wang1212.github.io/the-book-of-ruby/)
     - [v8.dev](https://v8.js.cn/)
+  - 一些我创造的有趣的东西
+    - [Awesome-Favorites-List](https://github.com/wang1212/awesome-favorites-list) 
+    - [User Script](https://github.com/wang1212/user-script) 
 
 <!--
 
