@@ -6,7 +6,7 @@
   - I participated in the work of Chinese translation of some documents.
     - [the-book-of-ruby](https://wang1212.github.io/the-book-of-ruby/)
     - [v8.dev](https://v8.js.cn/)
-  - Some interesting things I created
+  - Some interesting things I created.
     - [Awesome-Favorites-List](https://github.com/wang1212/awesome-favorites-list) 
     - [User Script](https://github.com/wang1212/user-script) 
 
