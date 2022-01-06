@@ -1,4 +1,4 @@
-### Hi there! 👋   [[看中文版]](./README.zh-CN.md)
+### Hi there! 👋 [[看中文版]](./README.zh-CN.md)
 
 - 🔭 I’m currently working on web front-end and web backend technology, especially Node.js.
 - 😄 I’m very interested in open source and hope to make some contributions to it.
@@ -7,8 +7,9 @@
     - [the-book-of-ruby](https://wang1212.github.io/the-book-of-ruby/)
     - [v8.dev](https://v8.js.cn/)
   - Some interesting things I created.
-    - [Awesome-Favorites-List](https://github.com/wang1212/awesome-favorites-list) 
-    - [User Script](https://github.com/wang1212/user-script) 
+    - [Awesome-Favorites-List](https://github.com/wang1212/awesome-favorites-list)
+    - [User Script](https://github.com/wang1212/user-script)
+    - [Node Packages](https://www.npmjs.com/~wang1212)
 
 <!--
 
@@ -27,8 +28,9 @@
 <p>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=wang1212&show_icons=true" />
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=wang1212" />
-  
-  _NOTE: Top languages are not an indicator skill, it's just a metric of how much **public** code I have written over the years._
+
+_NOTE: Top languages are not an indicator skill, it's just a metric of how much **public** code I have written over the years._
+
 </p>
 
 ---
