@@ -10,6 +10,7 @@
     - [Awesome-Favorites-List](https://github.com/wang1212/awesome-favorites-list)
     - [User Script](https://github.com/wang1212/user-script)
     - [Node Packages](https://www.npmjs.com/~wang1212)
+    - [Awesome-Template](https://github.com/wang1212/awesome-template)
 
 <!--
 
