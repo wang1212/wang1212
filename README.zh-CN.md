@@ -28,7 +28,7 @@
 
 <p>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=wang1212&show_icons=true&locale=cn" />
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=wang1212&exclude_repo=wang1212.github.io&locale=cn" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=wang1212&exclude_repo=wang1212.github.io&langs_count=10&hide=html,ejs&locale=cn" />
 
 _注意：语言排名不是一项指标技能，它只是对我多年来编写的**公共**代码的量度。_
 
