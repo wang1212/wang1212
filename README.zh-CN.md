@@ -66,10 +66,12 @@ _我是一名热爱开源的 Web 前端工程师。_
 
 一些我创造的有趣的东西：
 
-- [Awesome-Favorites-List](https://github.com/wang1212/awesome-favorites-list)
+- [Awesome-Favorites-List](https://wang1212.github.io/awesome-favorites-list)
 - [User Script](https://github.com/wang1212/user-script)
 - [Node Packages](https://www.npmjs.com/~wang1212)
 - [Awesome-Template](https://github.com/wang1212/awesome-template)
+- [Apache ECharts APIs Guide](https://wang1212.github.io/echarts-api-docs/)
+- [ReactiveZRender](https://github.com/wang1212/reactive-zrender)
 
 ### 🍺 我的 GitHub 统计信息
 
