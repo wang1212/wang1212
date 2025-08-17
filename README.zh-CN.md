@@ -1,10 +1,6 @@
 ## 你好呀！👋 [[Go English]](./README.md)
 
-_我是一名热爱开源的 Web 前端工程师。_
-
-### 🔭 现在
-
-我目前正在学习 Web 前端和 Web 后端技术，尤其是 Node.js。
+_我是一名 Web 前端工程师，专注于数据可视化，并热爱开源。_
 
 ### ⚡ 我的技术栈 [_(Stack Share)_](https://stackshare.io/wang1212/my-stack)
 

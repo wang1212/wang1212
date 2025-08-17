@@ -1,10 +1,6 @@
 ## Hi there! 👋 [[看中文版]](./README.zh-CN.md)
 
-_I am a web front-end engineer who loves open source._
-
-### 🔭 Now
-
-I’m currently working on web front-end and web backend technology, especially Node.js.
+_I am a web front-end engineer who focuses on data visualization and loves open source._
 
 ### ⚡ My Tech Stack [_(Stack Share)_](https://stackshare.io/wang1212/my-stack)
 
