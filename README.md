@@ -57,6 +57,11 @@ I’m currently working on web front-end and web backend technology, especially 
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)](https://www.postman.com/)
 [![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 
+<p align="center">
+  <!-- Dark theme SVG -->
+  <img src="images/breakout-dark.svg#gh-dark-mode-only" alt="GitHub Breakout" />
+</p>
+
 ### ☕ Spending of Spare Time
 
 I participated in the work of Chinese translation of some documents:
